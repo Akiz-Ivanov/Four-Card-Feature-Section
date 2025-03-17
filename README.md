@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL**: [https://github.com/Akiz-Ivanov/Product-Preview](https://github.com/Akiz-Ivanov/Four-Card-Feature-Section)
-- **Live Site URL**: [https://akiz-ivanov.github.io/Product-Preview/](https://akiz-ivanov.github.io/Four-Card-Feature-Section/)
+- **Solution URL**: [https://github.com/Akiz-Ivanov/Four-Card-Feature-Section](https://github.com/Akiz-Ivanov/Four-Card-Feature-Section)
+- **Live Site URL**: [https://akiz-ivanov.github.io/Four-Card-Feature-Section/](https://akiz-ivanov.github.io/Four-Card-Feature-Section/)
 
 ## My process
 
