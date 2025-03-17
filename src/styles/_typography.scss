@@ -1,0 +1,36 @@
+@use './functions' as *;
+
+/*==============================
+  Typography
+===============================*/
+p {
+    color: var(--Grey400);
+    font-size: rem(15);
+    font-weight: 400;
+    letter-spacing: rem(1);
+}
+
+h1 {
+    color: var(--Grey500);
+    font-weight: 200;
+    font-size: clamp(1.5rem, 1.1263rem + 1.8683vw, 2.8125rem);
+    line-height: 1.3;
+    margin-bottom: rem(20);
+}
+
+header strong {
+    font-weight: 600;
+    font-size: rem(44.5);
+    font-size: clamp(1.5rem, 1.1263rem + 1.8683vw, 2.8125rem);
+}
+
+
+header p {
+    font-size: clamp(0.875rem, 0.8393rem + 0.1786vw, 1rem);
+}
+
+h2 {
+    color: var(--Grey500);
+    margin-bottom: rem(8);
+    font-weight: 600;
+}
