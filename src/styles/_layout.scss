@@ -31,10 +31,10 @@ main {
     @include flex(column, baseline, flex-start);
     box-shadow: 0 15px 30px -11px hsla(216, 50%, 67%, 0.5);
     border-radius: $border-radius;
-    padding: rem(42);
+    padding: rem(32);
     background-color: var(--White);
     min-width: 0;
-    max-width: rem(440);
+    max-width: rem(360);
 }
 
 .card-cyan {
@@ -58,16 +58,16 @@ main {
 }
 
 img {
-    margin-bottom: rem(20);
+    margin-bottom: rem(10);
     margin-left: auto;
-    margin-top: rem(40);
+    margin-top: rem(25);
 }
 
 header {
     @include flex(column, center, center);
     text-align: center;
     max-width: min(85%, rem(610));
-    margin-block: rem(80);
+    margin-block: rem(60);
 }
 
 
